@@ -104,8 +104,8 @@ The **Furniture Sales and Revenue Dashboard** is a comprehensive Excel-based vis
 ---
 
 ## **Repository Content**
-- `Furniture Sales Analysis.xlsx`: The interactive Excel dashboard file.
-- `Furniture Final Dashboard.png`: A snapshot of the dashboard.
+- `Moyin_Furniture Dataset.xlsx`: The interactive Excel dashboard file.
+- `Furniture Sales n revenue analysis.png`: A snapshot of the dashboard.
 - `README.md`: Comprehensive documentation of the project (this file).
 
 ---
