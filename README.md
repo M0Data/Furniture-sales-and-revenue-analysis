@@ -75,15 +75,15 @@ The **Furniture Sales and Revenue Dashboard** is a comprehensive Excel-based vis
 - Investigate potential gaps in **Brand B** to increase its sales and revenue contributions.
 
 ### Revenue Recovery:
-- Address revenue loss in key product categories like **Bed** and **Desk** by reviewing pricing and discount strategies.
+- Review pricing and discount strategies by addressing revenue loss in key product categories like **Bed** and **Desk**.
 
 ### Discount Strategy:
-- Refine discount policies to achieve a balance between increasing sales and maintaining profitability.
+- Refine discount policies to balance increasing sales and maintaining profitability.
 
 ---
 
 ## **How to Use**
-1. Download the dashboard file (`Furniture_Dashboard.xlsx`) from this repository.
+1. Download this repository's dashboard file (`Moyin_Furniture Dataset.xlsx`).
 2. Open the file in **Microsoft Excel**.
 3. Use interactive slicers to filter data by product category, brand, and location.
 4. Analyze key metrics and visuals to gain actionable insights.
@@ -111,7 +111,7 @@ The **Furniture Sales and Revenue Dashboard** is a comprehensive Excel-based vis
 ---
 
 ## **Author**
-This project was created by **Joel Babatunde**. For feedback, suggestions, or collaboration, feel free to reach out!
+This project was created by **Moyin Odumewu**. For feedback, suggestions, or collaboration, feel free to reach out!
 
 ---
 
